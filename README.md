@@ -1,2 +1,4 @@
-# aws-angular-basic-webservice
- A basic webservice with angular as frontend and AWS as backend
+# aws-nextjs-basic-webservice
+ A basic webservice with NextJs which runs in a Fargate Container 
+
+## Architecture
